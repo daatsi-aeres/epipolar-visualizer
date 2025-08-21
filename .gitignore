@@ -30,14 +30,7 @@ install_manifest.txt
 data/
 datasets/
 
-# generated media
-assets/generated/
-*.gif
-*.mp4
-*.mov
-*.webm
-*.png
-*.jpg
+
 
 # OS
 .DS_Store
